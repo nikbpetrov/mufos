@@ -1,7 +1,7 @@
 # MUltiple tests corrections and FOrmatted tables Software (MUFOS)
 
 ## Description
-MUFOS is free, easy-to-use and convenient software that allows users to apply a MUltiple tests correction to their data and get the results in a readily-understood, FOrmatted table. More information about the software can be found in this preprint (link coming soon).
+MUFOS is free, easy-to-use and convenient software that allows users to apply a MUltiple tests correction to their data and get the results in a readily-understood, FOrmatted table. More information about the software can be found in in this <a href="https://openresearchsoftware.metajnl.com/articles/10.5334/jors.350/" target="_blank">peer-reviewed, open-access paper</a>.
 
 For additional help using the software, or information about underlying procedures and calculations, see the MUFOS Help Guide and Documentation document.
 ## Downloading, Installing and Running MUFOS
